@@ -648,4 +648,4 @@
    		include_once (__ROOT__."/includes/pop-up-status-notification.inc");
    	}// end if
 
-?>
+?>// Security Patch Applied
